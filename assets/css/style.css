@@ -1,0 +1,36 @@
+main{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#wrapper{
+  margin: 0 auto;
+  width: 90%
+  text-align: center;
+}
+
+.gifDiv {
+  display: inline-block;
+  padding: 10px;
+}
+
+.button {
+  padding: 5px;
+  margin: 5px;
+  box-shadow: 3px;
+}
+
+form {
+  padding: 5px;
+  margin: 5px;
+}
+
+.gif-name {
+  margin: 5px;
+  padding: 10px;
+}
+
+.add-gif {
+ margin: 5px;
+}
